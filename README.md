@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning Python and uploading my programs here
 - 💞️ I’m looking to collaborate on my programs here and  future projects.
-- 📫 How to reach me email me at my Gmail/Linkedin
+- 📫 Email me at my Gmail/Linkedin
 - 📧 christianbacani581@gmail.com
 - Linkedin  https://www.linkedin.com/in/christiane-a-bacani-7a6a2a251
 <!---
