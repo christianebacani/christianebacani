@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christiane Bacanj
+- 👋 Hi, I’m Christiane Bacani
 - 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning Python and uploading my programs here
 - 💞️ I’m looking to collaborate on my programs here and  future projects.
