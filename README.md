@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christiane Bacani
 - 👀 I’m interested in Data Analytics/Data Science
-- 🌱 I’m currently learning Python and uploading my programs here
-- 💞️ I’m looking to collaborate on my programs here and  future projects.
+- 🌱 I’m currently studying on university and I'm sharing some of my simple projects here.
+- 💞️ I’m looking to get my first client/job here
 - 📫 Email me at my Gmail/Linkedin
 - 📧 christianbacani581@gmail.com
 - Linkedin  https://www.linkedin.com/in/christiane-a-bacani-7a6a2a251
