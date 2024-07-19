@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics / Engineering
 - 🌱 I’m currently studying on university and I'm sharing some of my simple projects here (SQL, Python).
 - 💞️ I’m looking to get my first client/job here
-- 📫 Email me at my Gmail/Linkedin
+- 📫 Email me at my Gmail / LinkedIn
 - 📧 christianbacani581@gmail.com
 - 🔗 : https://www.datacamp.com/portfolio/bioy7bp5
 - - Linkedin : https://www.linkedin.com/in/christianebacani/
