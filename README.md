@@ -5,7 +5,7 @@
 - 📫 Email me at my Gmail / LinkedIn
 - 📧 christianbacani581@gmail.com
 - 🔗 : https://www.datacamp.com/portfolio/bioy7bp5
-- - Linkedin : https://www.linkedin.com/in/christianebacani/
+- Linkedin : https://www.linkedin.com/in/christianebacani/
 <!---
 christianebacani/christianebacani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
