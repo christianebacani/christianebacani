@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, ANSI SQL, and Data Engineering**
 
-- 📫 How to reach me **christianbacani581@gmail.com**
+- 📫 Reach me at **christianbacani581@gmail.com**
 
 - ⚡ Fun fact **I loved learning and building projects and watch historical channels**
 
