@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **christianbacani581@gmail.com**
 
-- ⚡ Fun fact **I loved learning and building projects and watch historical channels**
+- ⚡ Fun fact **I love watching history videos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
