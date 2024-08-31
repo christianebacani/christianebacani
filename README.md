@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning on **how to design Databases and Data Warehouses**
 
-- 👨‍💻 All of my projects are available at [[https://www.datacamp.com/portfolio/bioy7bp5](https://www.datacamp.com/portfolio/christianebacani)]([https://www.datacamp.com/portfolio/bioy7bp5](https://www.datacamp.com/portfolio/christianebacani))
+- 👨‍💻 All of my projects are available at [[https://www.datacamp.com/portfolio/bioy7bp5](https://www.datacamp.com/portfolio/christianebacani)]
 
 - 💬 Ask me about **Python, ANSI SQL, and Data Engineering**
 
