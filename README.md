@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datacamp.com/portfolio/christianebacani](https://www.datacamp.com/portfolio/christianebacani)
 
-- 💬 Ask me about **Python, ANSI SQL,and Data Engineering**
+- 💬 Ask me about **Python, SQL, and Data Engineering**
 
 - 📫 How to reach me **christianbacani581@gmail.com**
 
