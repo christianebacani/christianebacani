@@ -29,7 +29,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Designing, Developing and Implementing Databases and Data Warehouses**
+- 💼 I'm currently working on: **Implementing Databases and Data Warehouses**
 - 🌱 I'm currently learning: **Database Design**
 - 💬 Ask me about: **Python, SQL, Data Engineering**
 - ⚡ Fun fact: **I really love watching historical videos and currently love to listen to classical music ♬**
