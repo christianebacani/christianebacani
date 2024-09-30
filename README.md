@@ -1,32 +1,43 @@
-![MasterHead](https://ardas-it.com/uploads/images/blogs/giph.gif)
-<h1 align="center">Hello World! I'm Christiane Bacani 👨🏻‍💻</h1>
-<h3 align="center">A Data Engineer who loves to learn new concepts and build projects.</h3>
+![Hello World! I'm Christiane Bacani 👨🏻‍💻](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianebacani&label=Profile%20views&color=0e75b6&style=flat" alt="christianebacani" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=@christianebacani&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christianebacani" alt="christianebacani" /></a> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hello World! I'm Christiane Bacani 👨🏻‍💻
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-- 🌱 I’m currently learning on **how to design Databases and Data Warehouses**
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/christianebacani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="@christianbacani581@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/https://www.facebook.com/ChristianBacani.04" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-- 👨‍💻 All of my projects are available at [https://www.datacamp.com/portfolio/christianebacani](https://www.datacamp.com/portfolio/christianebacani)
+ **<h3 align="center">A Data Engineer who loves to learn new concepts and build projects.</h3>**
 
-- 💬 Ask me about **Python, SQL, and Data Engineering**
+**<h3 align="left">Rapid Fire</h3>**
 
-- 📫 How to reach me **christianbacani581@gmail.com**
+- 💼 I'm currently working on: **💻  Designing, Developing and Implementing Databases and Data Warehouses**
+- 🌱 I'm currently learning: **📚 Database Design**
+- 💬 Ask me about: **💡Python, SQL, Data Engineering**
+- ⚡ Fun fact: **🎢 I really love watching historical videos and currently loves to listen to classical musics**
+- 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
 
-- ⚡ Fun fact **I love watching historical & documentary videos**
+ **<h3 align="left">Skills</h3>**
 
-<h3 align="left">Connect with me:</h3>
+<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/></td></table>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christianebacani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christianebacani/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/christianbacani.04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/christianbacani.04/" height="30" width="40" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=christianebacani&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=christianebacani&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianebacani&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=christianebacani&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianebacani&show_icons=true&locale=en&layout=compact" alt="christianebacani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianebacani&show_icons=true&locale=en" alt="christianebacani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianebacani&" alt="christianebacani" /></p>
