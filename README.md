@@ -29,11 +29,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Designing, Developing and Implementing Databases and Data Warehouses ![image](https://github.com/user-attachments/assets/e1217810-83ca-49b7-9bb7-76843d852a69)
-**
-- 🌱 I'm currently learning: **Database Design![image](https://github.com/user-attachments/assets/2b1ff2d3-2fe5-4934-acb1-96e3a95c0287)
-**
-- 💬 Ask me about: **Python, SQL, Data Engineering 💡**
+- 💼 I'm currently working on: **Designing, Developing and Implementing Databases and Data Warehouses**
+- 🌱 I'm currently learning: **Database Design**
+- 💬 Ask me about: **Python, SQL, Data Engineering**
 - ⚡ Fun fact: **I really love watching historical videos and currently love to listen to classical music ♬**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
 
