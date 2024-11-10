@@ -31,7 +31,7 @@
 
 - 💼 I'm currently working on: **Implementing Databases and Data Warehouses**
 - 🌱 I'm currently learning: **Database Design**
-- 💬 Ask me about: **Python, SQL, Data Engineering**
+- 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really love watching historical videos and currently love listening to classical musics ♬**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
 
