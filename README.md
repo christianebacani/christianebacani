@@ -29,10 +29,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Implementing Databases and Data Warehouses**
-- 🌱 I'm currently learning: **Database Design**
+- 💼 I'm currently working on: **Building ETL Pipelines using APIs and Relational Databases Management using MySQL**
+- 🌱 I'm currently learning: **Python Concepts for Data Engineering and Database Design Concepts**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
-- ⚡ Fun fact: **I really love watching historical videos and currently love listening to classical musics ♬**
+- ⚡ Fun fact: **I really hate noisy and hot places**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
 
 **<h3 align="left">Skills</h3>**
