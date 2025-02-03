@@ -69,4 +69,4 @@
 </p>
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChristianeRhelyJoselleBacani)
+![LeetCode Stats](https://leetcard.jacoblin.cool/[ChristianeRhelyJoselleBacani](https://leetcode.com/u/r28Xu855FB/))
