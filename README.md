@@ -67,6 +67,3 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianebacani&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
 </p>
-
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedPercentage&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/cascandaliato/)
-
