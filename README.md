@@ -30,7 +30,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Building ETL Pipelines using APIs and Relational Databases Management using MySQL**
-- 🌱 I'm currently learning: **Python Concepts for Data Engineering and Database Design Concepts**
+- 🌱 I'm currently learning: **Data Warehouse Concepts**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
