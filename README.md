@@ -29,7 +29,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Building ETL Pipelines using APIs and Relational Databases Management using MySQL**
+- 💼 I'm currently working on: **Building ETL Pipelines using APIs and Relational Databases Management using PostgreSQL**
 - 🌱 I'm currently learning: **Data Warehouse Concepts**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
