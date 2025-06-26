@@ -29,7 +29,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Building Web Scraping/ETL Pipeline using APIs, Flat Files, or ORM with Python Scripts and Relational Databases Management using PostgreSQL**
+- 💼 I'm currently working on: **Building ETL Pipeline using Python and PostgreSQL Database**
 - 🌱 I'm currently learning: **Data Warehouse Concepts**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
