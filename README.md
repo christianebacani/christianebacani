@@ -30,7 +30,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Building ETL Pipeline using Python and PostgreSQL Database**
-- 🌱 I'm currently learning: **Data Warehouse Concepts**
+- 🌱 I'm currently learning: **Snowflake SQL**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
