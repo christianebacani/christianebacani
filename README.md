@@ -29,7 +29,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Building ETL Pipeline using Python and PostgreSQL Database/Snowflake Data Warehouse**
+- 💼 I'm currently working on: **Building ETL Pipeline using Python with Snowflakse Data Warehouse**
 - 🌱 I'm currently learning: **Snowflake SQL**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
