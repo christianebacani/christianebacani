@@ -29,7 +29,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Building Data Pipeline using Python with Snowflake Data Warehouse**
+- 💼 I'm currently working on: **Building Data Pipeline for PAGASA-DOST Website**
 - 🌱 I'm currently learning: **Snowflake SQL**
 - 💬 Ask me about: **Python, SQL, and Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
