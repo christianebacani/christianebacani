@@ -30,8 +30,8 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Building Data Pipeline for PAGASA-DOST Website**
-- 🌱 I'm currently learning: **Snowflake SQL**
-- 💬 Ask me about: **Python, SQL, and Data Engineering**
+- 🌱 I'm currently learning: **Data Pipeline with Snowflake Data Warehouse**
+- 💬 Ask me about: **Python, SQL, Data Aanalytics, Data Engineering**
 - ⚡ Fun fact: **I really hate noisy and hot places**
 - 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
 
