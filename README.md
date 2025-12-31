@@ -1,69 +1,27 @@
-![Hello World! I'm Christiane Bacani 👨🏻‍💻](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# 💫 About Me:
+👨‍💻 Data Engineer | Aspiring Data Analytics<br><br>🔧 Currently working on a Data Pipeline for the PAGASA–DOST Website<br>📊 Actively learning Data Analytics for Data Engineering<br>💬 Ask me about: Python, SQL, GitHub, Data Analytics, and Data Engineering<br>🌱 Always improving skills in data processing, analysis, and soon data orchestration<br>⚡ Fun fact: I prefer quiet and cool environments<br>🔗 Portfolio: https://www.datacamp.com/portfolio/christianebacani
 
-![Profile views](https://komarev.com/ghpvc/?username=christianebacani&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hello World! I'm Christiane Bacani 👨🏻‍💻
-      </h1>
-    </summary>
-  </ul>
-</div>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/christianebacani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christianebacani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChrstnBacani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christianbacani581@gmail.com) 
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center">
-  <a href="mailto:christianbacani581@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.linkedin.com/in/christianebacani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a> 
-  <a href="https://www.facebook.com/ChristianBacani.04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=christianebacani&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=christianebacani&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianebacani&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**<h3 align="center">A Data Engineer who loves to learn new concepts and build projects.</h3>**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=christianebacani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**<h3 align="left">Rapid Fire</h3>**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💼 I'm currently working on: **Building Data Pipeline for PAGASA-DOST Website**
-- 🌱 I'm currently learning: **Data Pipeline with Snowflake Data Warehouse**
-- 💬 Ask me about: **Python, SQL, Data Aanalytics, Data Engineering**
-- ⚡ Fun fact: **I really hate noisy and hot places**
-- 📂 Portfolio: **<a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank">https://www.datacamp.com/portfolio/christianebacani</a>**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=christianebacani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**<h3 align="left">Skills</h3>**
+---
+[![](https://visitcount.itsvg.in/api?id=christianebacani&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<table style="width: 100%; border: 0px solid white;">
-  <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="Pandas"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub"/>
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
-    </td>
-  </tr>
-</table>
-
-**<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=christianebacani&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=christianebacani&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianebacani&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&disable_animations=false" alt="GitHub top-langs Card" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
