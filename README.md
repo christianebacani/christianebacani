@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Data Engineer @ [Provincial Government of Bataan - Provincial Planning and Development Office]| Aspiring Data Analyst<br><br>🔧 Currently working on a Data Pipeline for the PAGASA–DOST Website<br>📊 Actively learning Data Analytics for Data Engineering<br>💬 Ask me about: Python, SQL, GitHub, Data Analytics, and Data Engineering<br>🌱 Always improving skills in data processing, analysis, and soon data orchestration<br>⚡ Fun fact: I prefer quiet and cool environments<br>🔗 Portfolio: https://www.datacamp.com/portfolio/christianebacani
+👨‍💻 Data Engineer @ Provincial Government of Bataan - Provincial Planning and Development Office | Aspiring Data Analyst<br><br>🔧 Currently working on a Data Pipeline for the PAGASA–DOST Website<br>📊 Actively learning Data Analytics for Data Engineering<br>💬 Ask me about: Python, SQL, GitHub, Data Analytics, and Data Engineering<br>🌱 Always improving skills in data processing, analysis, and soon data orchestration<br>⚡ Fun fact: I prefer quiet and cool environments<br>🔗 Portfolio: https://www.datacamp.com/portfolio/christianebacani
 
 
 ## 🌐 Socials:
