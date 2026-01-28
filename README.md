@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 **Data Engineer Intern @ Provincial Government of Bataan – Provincial Planning and Development Office | Aspiring Data Analyst**<br><br>
-🔧 Currently developing a **data pipeline for the PAGASA–DOST website**  
+🔧 Currently developing a **data pipeline for the PAGASA–DOST website** and contributing to design, build, and maintain the **Data Pipeline of Proposed Data Bank System for Provincial Government of Bataan**  
 📊 Actively enhancing skills in **data analytics** to support data engineering initiatives  
 💬 Proficient in: Python, SQL, GitHub, Data Analytics, and Data Engineering  
 🌱 Continuously improving expertise in **data processing, analysis, and soon, data orchestration**  
