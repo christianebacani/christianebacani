@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 **Aspiring Data and AI Engineer**<br><br>
 🔧 Currently implementing **PH Flood Control Pulse: An EDA of Public Tweets**
-📊 Actively enhancing skills in **data analytics** to support data engineering initiatives  
+📊 Actively learning **Data Science in Python** to support data engineering initiatives
 💬 Proficient in: Python, SQL, GitHub, Data Analytics, and Data Engineering  
 🌱 Continuously improving expertise in **data processing, analysis, and soon, data orchestration**  
 ⚡ Fun fact: I prefer working in quiet and calm environments  
