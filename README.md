@@ -1,46 +1,46 @@
 # 👨‍💻 Christiane Bacani
 
-### Data & AI Engineer (Aspiring) | Building Scalable Data Systems
+### Aspiring Data Engineer | Learning Data Science Through Real Projects
 
 ---
 
 ## 🚀 About Me
-I design and build **data-driven systems** with a focus on transforming raw data into actionable insights.
+I am a project-driven learner building **data systems and analytical skills** by working on real-world datasets.
 
 - 🔧 Currently building: **PH Flood Control Pulse** (EDA on Public Tweets)
-- 📊 Strengthening: Data Science in Python for analytics + engineering workflows
-- ⚙️ Learning next: Data pipelines, orchestration, and distributed systems
-- 🎯 Goal: Become a **Data Engineer / AI Engineer** working on real-world data systems
+- 📊 Practicing: Data cleaning, analysis, and exploratory data analysis (EDA)
+- ⚙️ Learning next: Data pipelines, data modeling, and orchestration
+- 🤖 Exploring: Foundations of data science and machine learning
+- 🎯 Goal: Become a **Data Engineer** with strong analytical and data science skills
 
 ---
 
 ## 🌊 Featured Project
 
 ### PH Flood Control Pulse
-EDA project analyzing public tweets to detect flood-related signals and sentiment.
+Exploratory Data Analysis (EDA) of public tweets to detect flood-related signals.
 
 **What I did:**
-- Data collection and preprocessing (real-world messy data)
-- Exploratory Data Analysis (EDA)
-- Insight generation for disaster awareness
+- Cleaned and processed real-world messy data  
+- Performed EDA to uncover patterns and insights  
+- Practiced analytical thinking using real datasets  
 
-**Tech Used:**
+**Tech Used:**  
 Python • Pandas • SQL  
 
 ---
 
-## 🧠 Data Engineering Roadmap (In Progress)
+## 🧠 What I’m Learning (Project-Based)
 
-```text
-✔ SQL (Intermediate)
-✔ Python (Data Handling)
-✔ Data Cleaning & EDA
-⬜ Data Pipelines (ETL/ELT)
-⬜ Airflow (Orchestration)
-⬜ Spark / Big Data Processing
-⬜ Cloud (AWS / GCP)
-⬜ Data Warehousing
-```
+### 🏗️ Data Engineering
+- Data Cleaning & Transformation  
+- SQL & Database Fundamentals  
+- ETL Concepts (In Progress)  
+
+### 📊 Data Science
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Statistical Thinking (Beginner)  
 
 ---
 
@@ -49,11 +49,26 @@ Python • Pandas • SQL
 **Languages & Databases**  
 Python • SQL • MySQL • PostgreSQL • SQLite  
 
-**Data Engineering & Analysis**  
-Pandas • Data Cleaning • EDA • Data Modeling  
+**Data Tools**  
+Pandas • Data Cleaning • EDA  
 
 **Tools & Platforms**  
 Git • GitHub • Snowflake  
+
+---
+
+## 📈 Learning Roadmap
+
+```text
+✔ SQL (Intermediate)
+✔ Python for Data Analysis
+✔ Data Cleaning & EDA
+⬜ ETL Pipelines
+⬜ Airflow (Orchestration)
+⬜ Machine Learning Basics
+⬜ Spark / Big Data
+⬜ Cloud (AWS / GCP)
+```
 
 ---
 
