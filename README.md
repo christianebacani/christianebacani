@@ -1,89 +1,96 @@
-# 👨‍💻 Christiane Bacani
+# Christiane Bacani
 
-### Aspiring Data Engineer | Learning Data Science Through Real Projects
-
----
-
-## 🚀 About Me
-I am a project-driven learner building **data systems and analytical skills** by working on real-world datasets.
-
-- 🔧 Currently building: **PH Flood Control Pulse** (EDA on Public Tweets)
-- 📊 Practicing: Data cleaning, analysis, and exploratory data analysis (EDA)
-- ⚙️ Learning next: Data pipelines, data modeling, and orchestration
-- 🤖 Exploring: Foundations of data science and machine learning
-- 🎯 Goal: Become a **Data Engineer** with strong analytical and data science skills
+## Data Science (In Progress) | Aspiring Data Engineer
 
 ---
 
-## 🌊 Featured Project
+## About Me
+I am a project-driven learner currently building my foundation in **data science**, with a long-term goal of becoming both a **Data Scientist and Data Engineer**.
 
-### PH Flood Control Pulse
-Exploratory Data Analysis (EDA) of public tweets to detect flood-related signals.
-
-**What I did:**
-- Cleaned and processed real-world messy data  
-- Performed EDA to uncover patterns and insights  
-- Practiced analytical thinking using real datasets  
-
-**Tech Used:**  
-Python • Pandas • SQL  
+My current focus is developing strong analytical skills—cleaning, analyzing, and exploring data—before advancing into data engineering systems such as pipelines, orchestration, and scalable architectures.
 
 ---
 
-## 🧠 What I’m Learning (Project-Based)
+## Current Focus
 
-### 🏗️ Data Engineering
-- Data Cleaning & Transformation  
-- SQL & Database Fundamentals  
-- ETL Concepts (In Progress)  
-
-### 📊 Data Science
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Statistical Thinking (Beginner)  
+- Data cleaning using Pandas  
+- Data analysis using Pandas  
+- Exploratory Data Analysis (EDA) using Python  
 
 ---
 
-## 🛠️ Tech Stack
+## Next Learning Goals
 
-**Languages & Databases**  
-Python • SQL • MySQL • PostgreSQL • SQLite  
-
-**Data Tools**  
-Pandas • Data Cleaning • EDA  
-
-**Tools & Platforms**  
-Git • GitHub • Snowflake  
+- Data manipulation with Pandas  
+- Joining datasets with Pandas  
+- Statistics using Python  
+- Introduction to machine learning  
 
 ---
 
-## 📈 Learning Roadmap
+## Featured Project
 
-```text
-✔ SQL (Intermediate)
-✔ Python for Data Analysis
-✔ Data Cleaning & EDA
-⬜ ETL Pipelines
-⬜ Airflow (Orchestration)
-⬜ Machine Learning Basics
-⬜ Spark / Big Data
-⬜ Cloud (AWS / GCP)
-```
+### PH Flood Control Pulse: EDA of Public Tweets  
+Status: In Progress  
 
----
+Repository:  
+https://github.com/christianebacani/PH-Flood-Control-Pulse-An-EDA-of-Public-Tweets
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=christianebacani&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
+Description:
+- Performs exploratory data analysis on public tweets related to flood events  
+- Focuses on cleaning, transforming, and analyzing real-world social media data  
+- Aims to extract meaningful insights for disaster awareness  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianebacani&theme=codeSTACKr&hide_border=false&layout=compact)
+Key Work:
+- Data collection and preprocessing  
+- Handling messy, real-world datasets  
+- Exploratory analysis and insight generation  
 
 ---
 
-## 🌐 Connect With Me
+## Technical Skills
+
+### Languages & Databases
+- Python  
+- MySQL  
+- PostgreSQL  
+- SQLite  
+- Snowflake  
+
+### Libraries
+- Pandas  
+- Requests  
+- BeautifulSoup  
+
+---
+
+## Long-Term Direction
+
+### Data Science
+- Statistical analysis  
+- Machine learning  
+- Predictive modeling  
+
+### Data Engineering
+- Data pipelines (ETL/ELT)  
+- Orchestration (Airflow)  
+- Containerization (Docker)  
+- Data lineage and logging  
+- Metadata management and data cataloging  
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=christianebacani&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=christianebacani&layout=compact)
+
+---
+
+## Contact
+
 - LinkedIn: https://linkedin.com/in/christianebacani  
 - Portfolio: https://www.datacamp.com/portfolio/christianebacani  
-- Facebook: https://facebook.com/christianebacani  
-- X: https://x.com/ChrstnBacani  
 - Email: christianbacani581@gmail.com  
 
 ---
