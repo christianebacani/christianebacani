@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 **Aspiring Data and AI Engineer**<br><br>
-🔧 Currently developing **Steam Charts Tracker** and contributing to design, build, and maintain the **Data Bank System for Provincial Government of Bataan** and **Infrastructure Project Tracking System**<br>
+🔧 Currently implementing **PH Flood Control Pulse: An EDA of Public Tweets**
 📊 Actively enhancing skills in **data analytics** to support data engineering initiatives  
 💬 Proficient in: Python, SQL, GitHub, Data Analytics, and Data Engineering  
 🌱 Continuously improving expertise in **data processing, analysis, and soon, data orchestration**  
