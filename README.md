@@ -6,8 +6,15 @@
   </a>
 </p>
 
+
 ## 📌 About Me
-\t***Aspiring Data Scientist*** with hands-on experience in data modeling and entity design from a Data Engineer internship at the Provincial Government of Bataan. Currently focused on strengthening my foundation in Data Science by building projects involving prediction, recommendation, classification, and clustering. Passionate about turning data into actionable insights and delivering real business value. Actively seeking opportunities to apply my skills, contribute to impactful projects, and grow as a data professional.
+&emsp;***Aspiring Data Scientist*** with hands-on experience in data modeling and entity design from a Data Engineer internship at the Provincial Government of Bataan.
+
+&emsp;Currently focused on strengthening my foundation in Data Science by building projects involving prediction, recommendation, classification, and clustering.
+
+&emsp;Passionate about turning data into actionable insights and delivering real business value.
+
+&emsp;Actively seeking opportunities to apply my skills, contribute to impactful projects, and grow as a data professional.
 
 
 ## 🧠 My Focus Areas
