@@ -13,9 +13,9 @@
 
 
 ## 🧠 My Focus Areas
-- ETL/ELT Pipelines – Building efficient data workflows for ingestion, transformation, and storage
-- Machine Learning – Developing models for prediction, recommendation, classification, and clustering
-- Data Analysis – Extracting insights and supporting data-driven decision-making
+- **ETL & ELT Pipelines** – Building efficient data workflows for ingestion, transformation, and storage
+- **Machine Learning** – Developing models for prediction, recommendation, classification, and clustering
+- **Data Analysis** – Extracting insights and supporting data-driven decision-making
 
 
 <div align="center">
