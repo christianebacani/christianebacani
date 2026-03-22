@@ -18,24 +18,6 @@
 - Data Analysis – Extracting insights and supporting data-driven decision-making
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/christianebacani">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christianebacani&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="christianebacani's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=christianebacani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="christianebacani's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=christianebacani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Christiane A. Bacani's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=christianebacani&theme=tokyonight&radius=10" alt="christianebacani's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
