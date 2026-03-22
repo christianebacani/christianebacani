@@ -10,13 +10,11 @@
 ## 📌 About Me
 
 ***Aspiring Data Scientist*** with hands-on experience in data modeling and entity design 
-gained through a Data Engineer internship at the Provincial Government of Bataan.
+gained through a Data Engineer internship at the Provincial Government of Bataan in the Philippines.
 
 Currently building a strong foundation in Data Science through projects spanning 
-*prediction*, *recommendation*, *classification*, and *clustering* — while also exploring 
+*prediction*, *recommendation*, *classification*, and *clustering* while also exploring 
 **Web Scraping** and **ETL & ELT Pipelines** as personal hobby projects.
-
-Passionate about transforming raw data into actionable insights that drive real business value.
 
 Actively seeking opportunities to apply my skills, contribute to meaningful projects, 
 and grow as a data professional.
