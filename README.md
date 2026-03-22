@@ -18,6 +18,12 @@
 - Data Analysis – Extracting insights and supporting data-driven decision-making
 
 
+## 📊 GitHub Stats & Trophies
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
