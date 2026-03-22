@@ -9,13 +9,9 @@
 <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-Aspiring Data Scientist with hands-on experience in data modeling and entity design from a Data Engineer internship at the Provincial Government of Bataan. 
-
-Currently focused on strengthening my foundation in Data Science by building projects involving prediction, recommendation, classification, and clustering.
-
-Passionate about turning data into actionable insights and delivering real business value.
-
-Actively seeking opportunities to apply my skills, contribute to impactful projects, and grow as a data professional.
+- Aspiring Data Scientist with hands-on experience in data modeling and entity design from a Data Engineer internship at the Provincial Government of Bataan.
+- Currently focused on strengthening my foundation in Data Science by building projects involving prediction, recommendation, classification, and clustering. Passionate about turning data into actionable insights and delivering real business value.
+- Actively seeking opportunities to apply my skills, contribute to impactful projects, and grow as a data professional.
 
 
 ## 🧠 My Focus Areas
@@ -37,6 +33,9 @@ Actively seeking opportunities to apply my skills, contribute to impactful proje
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=christianebacani&theme=tokyonight&radius=10" alt="christianebacani's Activity Graph" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -58,6 +57,10 @@ Actively seeking opportunities to apply my skills, contribute to impactful proje
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/christianebacani/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:christianbacani581@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.datacamp.com/portfolio/christianebacani" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
